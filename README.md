@@ -16,7 +16,7 @@
 <br>
 
 
-## 👉🏻 It is a simple Sanke Game in Python using Pygame.
+## 👉🏻 It is a simple Snake Game in Python using Pygame.
 <br>
 <br>
 <br>
